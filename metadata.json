@@ -1,0 +1,6 @@
+{
+  "name": "Cloud MP3 Downloader",
+  "description": "High-level YouTube MP3 downloader featuring a cloud Firebase real-time database sync, comprehensive download history, local offline playback, and beautiful Material 3 fluid layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
